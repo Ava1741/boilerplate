@@ -3,4 +3,8 @@
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("styles");
-};
+
+  eleventyConfig.addShortcode("itemLink", function(slug, title){
+    return`<li><a href="/${slug}/">${title}</a></li>`;
+    });
+  };
