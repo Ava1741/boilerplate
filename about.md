@@ -18,9 +18,9 @@ title: About
 <h1>Everyday Carry</h1>
 <nav>
 <ul>
-<l1><a href="/laptop/">Laptop</a></li>
-<l1><a href="/pens/">Pens</a></li>
-<l1><a href="/shoes/">Shoes</a></li>
+<li><a href="/laptop/">Laptop</a></li>
+<li><a href="/pens/">Pens</a></li>
+<li><a href="/shoes/">Shoes</a></li>
 </ul>
 </nav>
 </header>

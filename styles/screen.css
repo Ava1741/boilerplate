@@ -17,7 +17,7 @@ nav a {
     color: #9ee1c6;
     text-decoration: none;
     margin: 0;
-    padding: 6px, 12px;
+    padding: 12px;
     border-radius: 6px;
     background: rgba(158, 255, 198, 0.1);
 }
@@ -63,8 +63,6 @@ ul li {
     max-width:500px;
     margin: 10px auto;
     color:#cfe9ff;
-
-
 }
 
 p {color: #9ee1c6;}
